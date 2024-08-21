@@ -1,4 +1,3 @@
-# MERN E-COMMERCE TUTORIAL
 
 Hi! My name is **Devraj Singh**, I have created this Project to Lern and explore MERN Stack.
 
